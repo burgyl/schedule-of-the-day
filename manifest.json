@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Schedule of the day",
+  "version": "1.0.0",
+
+  "description": "Shows your schedule of the day and your upcoming events.",
+  "homepage_url": "https://github.com/burgyl/schedule-of-the-day",
+
+  "icons": {
+    "32": "icons/icon-32.ico",
+    "80": "icons/icon-80.png",
+    "256": "icons/icon-256.ico"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/icon-32.ico",
+    "default_title": "Schedule of the day",
+    "default_popup": "popup/dist/index.html"
+  }
+
+}
