@@ -105,3 +105,6 @@ atlassian-ide-plugin.xml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
+
+**/.env*
+!**/.env*.template
